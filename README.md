@@ -42,3 +42,11 @@ p = "datasets_for_train_mlps/outputs_for_50000_step/outputs-density=0.100/local_
 df = pd.read_csv(p)
 print(df.columns)
 print(df.head())
+
+## License & Terms
+This dataset is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+- You may download and inspect the data for review and verification.
+- No commercial use is permitted.
+- No derivatives or redistribution of modified data are permitted.
+- If you use this dataset for verification or reproduction of results, please cite the paper listed in this repository.
+- The dataset is provided "AS IS", without any warranty; the authors are not responsible for errors or misuse.
