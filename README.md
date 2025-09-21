@@ -49,5 +49,5 @@ This dataset is released under the **Creative Commons Attribution-NonCommercial-
 - You may download and inspect the data for review and verification.
 - No commercial use is permitted.
 - No derivatives or redistribution of modified data are permitted.
-- If you use this dataset for verification or reproduction of results, please cite the paper listed in this repository.
+- If you use this dataset for verification or reproduction of results, please cite the paper listed in this repository [paper]([URL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BJRAHSEAAAAJ&citation_for_view=BJRAHSEAAAAJ:UeHWp8X0CEIC)).
 - The dataset is provided "AS IS", without any warranty; the authors are not responsible for errors or misuse.
